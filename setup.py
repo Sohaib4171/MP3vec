@@ -10,8 +10,7 @@ setup(
     author_email="muhammadsohaib1267@gmail.com",
     packages=["mp3vec"],
     install_requires=[
-        "tensorflow==2.15",
-        "biopython==1.72"
+        "tensorflow==2.15"
     ],
     include_package_data=True,
     entry_points={
