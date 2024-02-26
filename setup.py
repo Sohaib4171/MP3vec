@@ -7,7 +7,7 @@ setup(
     description="A Transferable Feature Representation Method for Protein Sequences",
     url="https://github.com/sanketx/MP3vec",
     author="Sanket Rajan Gupte",
-    author_email="sanketgupte14@gmail.com",
+    author_email="muhammadsohaib1267@gmail.com",
     packages=["mp3vec"],
     install_requires=[
         "tensorflow==2.15",
